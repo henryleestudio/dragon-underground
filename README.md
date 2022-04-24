@@ -1,31 +1,11 @@
-# Level Ground
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Dragon Underground
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+A layout recreation with added media query dynamics. The objective is to be able to seamlessly display content well on any device or screen size. I created the dragon graphics and added the dragon spice for the character.
 
-![_Volumes_GoogleDrive_My%20Drive_Resilient-coders_level-ground_henrylee-mediaq-level-ground html (1) copy](https://user-images.githubusercontent.com/101936420/164867831-a1800bec-27ef-4c8c-b37e-f45b7d126e0f.png)
+**Link to project:** https://henryleestudio.github.io/dragon-ground-underground/
 
-## How It's Made:
+![dragon-underground-mockup-cropped](https://user-images.githubusercontent.com/101936420/164996248-a6fa2427-0835-442e-8332-c07f127ae3cd.png)
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Project Attributes:** HTML | CSS | Media Queries | Graphic Design | Graphic Art | Photoshop CC
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
-## Lessons Learned:
-
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
+Feel free to take a look at my **portfolio website:** https://henrylee.studio/
