@@ -4,7 +4,7 @@ A layout recreation with added media query dynamics. The objective is to be able
 
 **Link to project:** https://henryleestudio.github.io/dragon-ground-underground/
 
-![dragon-underground-mockup-cropped](https://user-images.githubusercontent.com/101936420/164996575-b204d2c7-b737-4c04-9d74-35775847dd61.png)
+![dragon-underground-mockup-cropped](https://user-images.githubusercontent.com/101936420/164996654-33485bac-a2cd-48bf-84c4-fd5f80c065a4.png)
 
 **Project Attributes:** HTML | CSS | Media Queries | Graphic Design | Graphic Art | Photoshop CC
 
