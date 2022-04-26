@@ -4,7 +4,10 @@ A layout recreation with added media query dynamics. The objective is to be able
 
 **Link to project:** https://henryleestudio.github.io/dragon-underground/
 
-![dragon-underground-mockup-cropped](https://user-images.githubusercontent.com/101936420/164996654-33485bac-a2cd-48bf-84c4-fd5f80c065a4.png)
+<img width="1399" alt="Screen Shot 2022-04-25 at 9 04 33 PM" src="https://user-images.githubusercontent.com/101936420/165198759-0c1cbcf9-027e-48df-b2d9-ff5f629df46b.png">
+
+<img width="1399" alt="Screen Shot 2022-04-25 at 9 04 58 PM" src="https://user-images.githubusercontent.com/101936420/165198775-906ecfeb-af53-4aef-8902-fcb4949cca95.png">
+
 
 **Project Attributes:** HTML | CSS | Media Queries | Graphic Design | Graphic Art | Photoshop CC
 
